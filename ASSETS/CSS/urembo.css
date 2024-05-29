@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 30px;
+    color: darkred;
+    display: block;
+    text-decoration: none;
+    font-family: Bahnschrift;
+}
+
+h2{
+    color: brown;
+    text-align: center;
+}
+p{
+    color: indigo;
+    font-family: "Calibri Light";
+    font-size: 20px;
+}
+body{
+    background-image: url(book.jpeg);
+    background-size: cover;
+}
+th,td{
+    border: 5px solid #c40f57;
+    padding: 20px;
+    font-family: "Arial Black";
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
